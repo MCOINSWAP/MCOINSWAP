@@ -41,7 +41,7 @@ With over **$512.2M** of liquidity across **Polygon** and **BSC**, Mcoins is a p
 
 Mcoins provides access to liquidity across multiple blockchain networks, ensuring that traders get the most competitive rates on their swaps. By bridging liquidity from various decentralized exchanges, Mcoins ensures deeper pools and better prices.
 
-- Supported Chains: **Polygon**, **Binance Smart Chain (BSC)**
+- Supported Chains: **Polygon**, **Binance Smart Chain (BSC)**, **Base (ETH)**
 
 ### Advanced Routing Algorithms
 
@@ -62,6 +62,7 @@ Mcoins currently supports:
 
 - **Polygon Network**: Fast, scalable transactions with low fees.
 - **Binance Smart Chain (BSC)**: Efficient transactions and a wide range of DeFi protocols.
+- **BASE**: Fast, scalable transactions.
 
 ---
 
