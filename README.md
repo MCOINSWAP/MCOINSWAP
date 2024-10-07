@@ -118,3 +118,6 @@ For any inquiries or support related to Mcoins, please feel free to reach out vi
 - Email: support@mcoins.com
 - Discord: [Mcoins Community](https://discord.com/mcoins)
 - Twitter: [@Mcoins](https://twitter.com/mcoins)
+- Medium: [@Mcoins](https://medium.com/@mcoinswap)
+
+  
